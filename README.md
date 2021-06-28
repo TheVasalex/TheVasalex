@@ -1,3 +1,4 @@
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--cYDD7bs7--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/oxte5rv0f0dmcebm8pre.png">
 👋 Hello World, my name is Alexandros and i am a <b>Software Developer</b> 💻 from Greece.<br>
 🎓 I am studing Computer Science and Digital Systems at the <b>University of Thessaly, Greece</b>.<br>
 💻 I mainly code and design <b>Desktop Applications</b> using C#, C++ and Python.<br>
